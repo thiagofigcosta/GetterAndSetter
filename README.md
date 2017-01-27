@@ -30,7 +30,7 @@ HOW TO RUN
 HOW TO USE
 -------------------------------------------------------
 Open the program
-Type var name and type when asked
+Type var type and name when asked(e.g. String out)
 
 ====
 PTBR
@@ -52,4 +52,4 @@ COMO ABRIR
 COMO USAR
 -------------------------------------------------------
 Abra o programa
-Digite o tipo e nome da variavel quando pedido
+Digite o tipo e nome da variavel quando pedido(e.g. String out)
